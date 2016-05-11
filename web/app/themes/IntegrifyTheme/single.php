@@ -1,7 +1,3 @@
-<?php
-
-$image = get_field('test_1');
- ?>
 
 <link href="<?php bloginfo('template_directory'); ?>/style.css" rel="stylesheet" type="text/css" /></link>
 <?php get_header(); ?>
@@ -17,7 +13,7 @@ $image = get_field('test_1');
 
 <div class="test">
   <p>
-<img src="<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>" />
+
   </p>
 </div>
 
