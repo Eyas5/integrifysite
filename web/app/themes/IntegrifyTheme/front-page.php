@@ -10,6 +10,8 @@
     <li><a href="home">Home</a></li>
     <li><a href="Partners">Partners</a></li>
     <li><a href="Participants">Participants</a></li>
+    <li><a href="news">News</a></li>
+    <li><a href="faq">FAQ</a></li>
   </ul>
 </div>
 
