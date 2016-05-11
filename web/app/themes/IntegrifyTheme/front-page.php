@@ -29,9 +29,5 @@
 <?php endwhile;?>
 
 
-<img src="<?php echo get_template_directory_uri()?>/assets/images/123123.jpg" height="10px ", width="10px">
-
-<img src="<?php echo get_template_directory_uri()?>/assets/images/777.jpg" height="10px", width="10px">
-
 
 <?php get_footer(); ?>
