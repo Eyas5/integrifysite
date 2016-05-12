@@ -126,7 +126,7 @@ color: #0894FF;
 
 /* menu appearance*/
 #menu {
-  position: relative;
+  position: sticky;
   color: #999;
   width: 200px;
   padding: 10px;
@@ -173,12 +173,3 @@ li a:focus {
 /* demo styles */
 body { margin-top: 3em; background: #eee; color: #555; font-family: "Open Sans", "Segoe UI", Helvetica, Arial, sans-serif; }
 p, p a { font-size: 12px;text-align: center; color: #888; }
-
-
-
-img {
-  width:50%;
-     height:50%;
-
-     pointer-events: visibleFill;
-}
