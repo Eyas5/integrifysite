@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e409e510-cc62-465f-90c7-641678fa0ea5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/app/themes/IntegrifyTheme/assets/build/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/app/themes/IntegrifyTheme/assets/build/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/app/themes/IntegrifyTheme/assets/images/123123.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/app/themes/IntegrifyTheme/assets/images/777.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/app/themes/IntegrifyTheme/assets/images/integrify-group-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/app/themes/IntegrifyTheme/assets/images/main-header-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/app/themes/IntegrifyTheme/assets/images/nizar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/app/themes/IntegrifyTheme/assets/images/participants-header-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/app/themes/IntegrifyTheme/build/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/app/themes/IntegrifyTheme/comments.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/app/themes/IntegrifyTheme/footer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/app/themes/IntegrifyTheme/front-page.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/app/themes/IntegrifyTheme/functions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/app/themes/IntegrifyTheme/header.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/app/themes/IntegrifyTheme/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/app/themes/IntegrifyTheme/single.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/app/themes/IntegrifyTheme/style.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/optimizer/assets/images/integrify_logo.svg" afterPath="$PROJECT_DIR$/web/app/themes/optimizer/assets/images/integrify_logo.svg" />
     </list>
     <ignored path="site.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -115,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/web/app/themes/optimizer/assets/images/integrify_logo.svg">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -490,12 +473,12 @@
       <workItem from="1463120178200" duration="17997000" />
       <workItem from="1463393526420" duration="11625000" />
       <workItem from="1463465887512" duration="871000" />
-      <workItem from="1463469250362" duration="5057000" />
+      <workItem from="1463469250362" duration="5128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47573000" />
+    <option name="totallyTimeSpent" value="47644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="164" y="30" width="1149" height="1010" extended-state="1" />
@@ -739,7 +722,7 @@
     <entry file="file://$PROJECT_DIR$/web/app/themes/optimizer/assets/images/integrify_logo.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
           <folding />
         </state>
       </provider>
