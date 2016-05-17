@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e409e510-cc62-465f-90c7-641678fa0ea5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/optimizer/assets/images/integrify_logo.svg" afterPath="$PROJECT_DIR$/web/app/themes/optimizer/assets/images/integrify_logo.svg" />
-    </list>
+    <list default="true" id="e409e510-cc62-465f-90c7-641678fa0ea5" name="Default" comment="" />
     <ignored path="site.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -473,12 +471,10 @@
       <workItem from="1463120178200" duration="17997000" />
       <workItem from="1463393526420" duration="11625000" />
       <workItem from="1463465887512" duration="871000" />
-      <workItem from="1463469250362" duration="5128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="164" y="30" width="1149" height="1010" extended-state="1" />
