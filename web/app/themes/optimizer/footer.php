@@ -42,6 +42,8 @@ global $optimizer;?>
                     <!--Site Copyright Text END-->
 
                <div class="foot_right_wrap">
+                   
+                   
                     <!--SOCIAL ICONS START-->
                       <div class="foot_soc"><?php if ($optimizer['social_bookmark_pos'] == 'footer') { ?><?php get_template_part('framework/core','social'); ?><?php } ?></div>
                         <!--SOCIAL ICONS END-->

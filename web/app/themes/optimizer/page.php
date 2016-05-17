@@ -17,7 +17,7 @@ global $optimizer;?>
 
         <!--CUSTOM PAGE HEADER STARTS-->
             <?php get_template_part('framework/core','pageheader'); ?>
-        <!--CUSTOM PAGE HEADER ENDS-->
+        <!--custom page header ends here this is the second  -->
     
         <div id="content">
             <div class="center">
@@ -64,8 +64,8 @@ global $optimizer;?>
                           <?php comments_template('',true); ?>
                       </div>
                   <?php }?> 
-                  <!--COMMENT END-->
                   
+                  <!--comment this section is ending here-->
                   <?php endif ?>
                 
                     </div>

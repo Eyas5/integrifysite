@@ -22,6 +22,7 @@ global $optimizer;?>
                         
                     <div class="about_content"><?php echo do_shortcode($optimizer['about_content_id']); ?></div>
                 </div>
+                
         	</div>
     	</div>
 <!--ABOUT Block END-->
