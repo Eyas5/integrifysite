@@ -11,67 +11,13 @@ global $optimizer;?>
         <?php get_template_part('framework/core','pageheader'); ?>
         <!--custom page header ends here this is the second  -->
 
-        <div id="content">
-            <div class="center">
-                <div class="single_wrap<?php if ( !is_active_sidebar( 'sidebar' ) ) { ?> no_sidebar<?php } ?>">
-                    <div class="single_post">
-                        <?php if(have_posts()): ?><?php while(have_posts()): ?><?php the_post(); ?>
-                            <div <?php post_class(); ?> id="post-<?php the_ID(); ?>">
-
-                                <!--EDIT BUTTON START-->
-                                <?php if ( is_user_logged_in() || is_admin() ) { ?>
-                                    <div class="edit_wrap">
-                                        <a href="<?php echo get_edit_post_link(); ?>">
-                                            <?php _e('Edit','optimizer'); ?>
-                                        </a>
-                                    </div>
-                                <?php } ?>
-                                <!--EDIT BUTTON END-->
-
-                                <!--PAGE CONTENT START-->
-                                <div class="single_post_content">
-
-                                    <!--THE CONTENT START-->
-
-                                    <div class="thn_post_wrap">
-                                        <?php the_content(); ?>
-                                    </div>
-                                    <div style="clear:both"></div>
-                                    <div class="thn_post_wrap wp_link_pages">
-                                        <?php wp_link_pages('<p class="pages"><strong>'.__('Pages:', 'optimizer').'</strong> ', '</p>', 'number'); ?>
-                                    </div>
-                                    <!--THE CONTENT END-->
-                                </div>
-                                <!--PAGE CONTENT END-->
-
-
-                            </div>
-
-                        <?php endwhile ?>
-                    </div>
-
-
-                    <!--COMMENT START: Calling the Comment Section. If you want to hide comments from your posts, remove the line below-->
-                    <?php if (!empty ($optimizer['post_comments_id'])) { ?>
-                        <div class="comments_template">
-                            <?php comments_template('',true); ?>
-                        </div>
-                    <?php }?>
-
-                    <!--comment this section is ending here-->
-                    <?php endif ?>
-
-                </div>
-
-                <!--PAGE END-->
-
-
-                <!--SIDEBAR START-->
-                <?php get_sidebar(); ?>
-                <!--SIDEBAR END-->
-
-            </div>
-        </div>
-    </div><!--layer_wrapper class END-->
+    <img class="newsimage" src="http://integrify.dev/app/uploads/2016/05/194b7f6b-efa5-43db-8ea4-f7eb9e630176.jpg" alt="newsPic" >
+    <h3 id="headfaq">Who can apply for the program?</h3>
+    <p id="faqtext">Anyone who has sought for asylum in Finland during the past three years is eligible to apply for Integrify's developer centers.</p>
+    <p id="faqtext">You don’t necessarily need to be a recent asylum seeker; we’re looking at all asylum seekers and refugees in the last three years to have a broad scope in our mission to enable integration through technology in Finland.</p>
+    <h3 id="headfaq">Do I need to know how to do computer programming (i.e. code) to apply?</h3>
+    <p id="faqtext">No. All that is required to join Integrify’s program is a good command of the English language and a strong motivation to learn and work. If you are interested in technology, start-ups, and/or mobile applications it is a plus, but not a requirement.</p>
+    <h3 id="headfaq">What do I need to apply?</h3>
+    <p id="faqtext">A computer (not necessarily your own!) and an e-mail address. We’ll take care of the rest.</p>
 
 <?php get_footer(); ?>
