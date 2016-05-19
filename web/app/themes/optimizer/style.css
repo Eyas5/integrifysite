@@ -1088,3 +1088,32 @@ a.comment-edit-link{ position:relative;top: -15px; float:right;}
 .is_safari .lay1_wrap .img_hover{ transition:none; -webkit-transition:none;}
 .is_safari .lay1 .post_image {width: 100.4%;}
 .is_safari .lay1 .hentry {overflow: hidden;}
+
+
+.newsimage {
+    width:50%;
+    height: auto;
+    opacity: 0.6;
+    position: relative;
+    left: 400px;
+}
+#headfaq {
+    text-align: center;
+    color: rgba(61,61,61,.55);
+    font-size: 20px;
+    font-weight: 400;
+}
+#faqtext {
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 1.6;
+    margin-bottom: 1.25rem;
+    text-rendering: optimizeLegibility;
+    margin-bottom: 15px;
+    text-align: center;
+
+    .postitle {
+    background-color: red;
+    }
+}
