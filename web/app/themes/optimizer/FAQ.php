@@ -19,5 +19,8 @@ global $optimizer;?>
     <p id="faqtext">No. All that is required to join Integrify’s program is a good command of the English language and a strong motivation to learn and work. If you are interested in technology, start-ups, and/or mobile applications it is a plus, but not a requirement.</p>
     <h3 id="headfaq">What do I need to apply?</h3>
     <p id="faqtext">A computer (not necessarily your own!) and an e-mail address. We’ll take care of the rest.</p>
+    <p id="headfaq">  What’s in it for me?</p>
+        <p id="headfaq"> You get a free, top class education in programming by some of the best developers in Finland.
+              Access to the Integrify program is a chance of a life-time. All is taken care of:</p>
 
 <?php get_footer(); ?>

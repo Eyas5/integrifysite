@@ -1091,10 +1091,10 @@ a.comment-edit-link{ position:relative;top: -15px; float:right;}
 
 
 .newsimage {
-    width:50%;
+    width:100%;
     height: auto;
     opacity: 0.6;
-    position: relative;
+
     left: 400px;
 }
 #headfaq {
@@ -1116,4 +1116,7 @@ a.comment-edit-link{ position:relative;top: -15px; float:right;}
     .postitle {
     background-color: red;
     }
+}
+.img-circle {
+    border-radius: 50%;
 }
