@@ -1094,7 +1094,6 @@ a.comment-edit-link{ position:relative;top: -15px; float:right;}
     width:100%;
     height: auto;
     opacity: 0.6;
-
     left: 400px;
 }
 #headfaq {
@@ -1135,11 +1134,40 @@ a.comment-edit-link{ position:relative;top: -15px; float:right;}
     margin-left:15px;
     margin-right: 15px;
     margin-top: 15px;
-    float: left;
-    clear: left;
+    float: inherit;
+    padding: 15px;
+    border: 1px solid black;
+    text-align: center;
+
+
+
 }
 
 .wpcf7-submit{
-    width: 31.8em;  height: 3em;
+    margin-left:15px;
+    margin-right: 15px;
+    margin-top: 15px;
+    float: inherit;
+    padding: 15px;
+    border: 1px solid black;
+    text-align: center;
+    width: 540px;  height: 50px;
+
+}
+
+.apply {
+
+    padding: 60px;
+    color: #fff;
+    margin: 0;
+    text-align: center;
+    font-size: 2.6875rem;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 300;
+
+}
+
+.center {
 
 }
