@@ -1,0 +1,159 @@
+body {
+    margin-top: 0px !important;
+}
+
+
+.one{
+
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.two {
+    box-sizing: border-box;
+    color: #6d6d6d;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1.5;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+.three  {
+    height: 380px;
+    width: 500px;
+    margin-left:579px;
+    margin-right:auto;
+    margin-top: 164px;
+    padding: 25px 35px;
+    top: 50%;
+    display: block;
+
+}
+
+.four {
+    border: 1px solid blue;
+    height: 320px;
+    width: 508px;
+    margin-left:-0.5px;
+    margin-right:auto;
+    margin-top: 3px;
+    padding: 25px 35px;
+    display: block;
+
+}
+.logo {
+    left: 280px;
+    position: absolute;
+    top: 40px;
+    width: 150px;
+    display: block;
+}
+
+.dude {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.heading {
+    font-family: "Courier New",Courier,monospace;
+    font-size: 38px;
+    width: 480px;
+    color: #f6f6f6;
+    cursor: default;
+    line-height: 1.2;
+    position: relative;
+    text-shadow: 0 0 1px #111;
+    font-style: normal;
+    font-weight: 300;
+    left: 44%;
+    text-align: start;
+    margin-top: -380px;
+
+
+
+}
+
+.sub-heading {
+
+    font-size: 26px;
+    width: 400px;
+    color: #f6f6f6;
+    cursor: default;
+    left: 44%;
+    line-height: 1.2;
+    position: relative;
+    text-shadow: 0 0 1px #111;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+}
+
+p {
+    font-size: 1rem;
+    text-rendering: optimizeLegibility;
+    padding: 0;
+    display: block;
+    color: #6d6d6d;
+    cursor: auto;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1.5;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+.heading3 {
+    font-size: 32px;
+    color: #3d3d3d;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    line-height: 1.4;
+    margin-bottom: .5rem;
+    text-rendering: optimizeLegibilit;
+    display: block;
+    -webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    margin-top: -410px;
+
+
+}
+.heading4 {
+    font-size: 32px;
+    color: #3d3d3d;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    line-height: 1.4;
+    margin-bottom: .5rem;
+    text-rendering: optimizeLegibilit;
+    display: block;
+    -webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+
+
+}
+
+a {
+    color: #FA9026;
+    line-height: inherit;
+    text-decoration: none;
+}
+
+.section {
+    margin-left: -614px;
+    margin-top: -24px;
+}
