@@ -4,6 +4,7 @@
 <html>
 <head>
     <title>Home</title>
+
 </head>
 
 <body>
@@ -23,6 +24,23 @@
     <h1 class="heading">Enabling integration through technology.</h1>
     <h2 class="sub-heading">Join integrify's sponsored career program to become a world-class coder now!</h2>
 
+    <div class='navbar-toggle' title='Menu'>
+        <div class='bar1'></div>
+        <div class='bar2'></div>
+        <div class='bar3'></div>
+    </div>
+    <nav class="nav-hide">
+        <ul>
+            <li><a href=" http://integrify.dev/home/">Home</a></li>
+            <li><a href=" http://integrify.dev/partners/">Partners</a></li>
+            <li><a href=" http://integrify.dev/Participants/">Participants</a></li>
+            <li><a href=" http://integrify.dev/news/">News</a></li>
+            <li><a href=" http://integrify.dev/faq/">Faq</a></li>
+        </ul>
+    </nav>
+
+</div>
+
 </div>
 
 
@@ -33,9 +51,9 @@
         <img class="section" src="<?php echo get_template_directory_uri() ?>/assets/images/section-1-bg.jpg" alt="section1" style="width:583px;height:430px;" >
 
         <h2 class="heading3">What is Integrify?</h2>
-        <p>Integrify is a software development center for refugees, asylum seekers, and recent immigrants. We want to help you kick-start your new life in Finland by providing you with world-class education, equipment, and job opportunities.</p>
-        <p>Integrify is a refugee camp reinvented. Instead of operating as a housing facility with basic services, Integrify takes a results-oriented approach by integrating its residents into society through technology and jobs. To accomplish this, Integrify focuses on the ultimate meritocracy; software development.</p>
-        <p>Questions? Contact CEO Daniel Rahman, <a href="tel:+358505650448">+358 50 5650 448</a>, <a href="mailto:daniel@integrify.fi">daniel@integrify.fi</a></p>
+        <p class="homep">Integrify is a software development center for refugees, asylum seekers, and recent immigrants. We want to help you kick-start your new life in Finland by providing you with world-class education, equipment, and job opportunities.</p>
+        <p class="homep">Integrify is a refugee camp reinvented. Instead of operating as a housing facility with basic services, Integrify takes a results-oriented approach by integrating its residents into society through technology and jobs. To accomplish this, Integrify focuses on the ultimate meritocracy; software development.</p>
+        <p class="homep">Questions? Contact CEO Daniel Rahman, <a href="tel:+358505650448">+358 50 5650 448</a>, <a href="mailto:daniel@integrify.fi">daniel@integrify.fi</a></p>
 
     </div>
 
@@ -45,8 +63,8 @@
 
         <h2 class="heading4">What’s in it for me?</h2>
 
-                <p>Today, it takes on average multiple years for an asylum seeker to get a low-skill job in Finland. Integrify empowers refugees to take part in the start-up eco system and fill developer positions after only 6-12 months. The first results are in; within the first weeks of operation Integrify's pilot developer center has already placed two refugees into employment in downtown Helsinki.</p>
-                <p>Questions? Check out our <a href=" http://integrify.dev/faq/">FAQ</a></p>
+        <p class="homep">Today, it takes on average multiple years for an asylum seeker to get a low-skill job in Finland. Integrify empowers refugees to take part in the start-up eco system and fill developer positions after only 6-12 months. The first results are in; within the first weeks of operation Integrify's pilot developer center has already placed two refugees into employment in downtown Helsinki.</p>
+        <p class="homep">Questions? Check out our <a href=" http://integrify.dev/faq/">FAQ</a></p>
 
 
 
@@ -60,7 +78,7 @@
         <a  href="http://integrify.dev/participants"><h2 class="heading5">Meet the current participants</h2></a>
 
         <div class="text">
-            <p>”I arrived in Finland from Syria in January of 2016. Integrify is already empowering me to create a new life here. I have become a junior developer thanks to the springboard Integrify has provided!”<span class="quote">– Nizar Rahme</span></p>
+            <p class="homep">”I arrived in Finland from Syria in January of 2016. Integrify is already empowering me to create a new life here. I have become a junior developer thanks to the springboard Integrify has provided!”<span class="quote">– Nizar Rahme</span></p>
         </div>
 
         <div class="partners">
@@ -95,5 +113,9 @@
 </body>
 
 </html>
+
+<link  href="<?php bloginfo('template_directory'); ?>/build/navstyle.css" type="text/css" rel="stylesheet" />
+<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/build/navbar.js"></script>
 
 <?php get_footer(); ?>
