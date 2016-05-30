@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e409e510-cc62-465f-90c7-641678fa0ea5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/themes/Theme2016/build/navbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/themes/Theme2016/build/navstyle.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/app/themes/Theme2016/assets/build/style.css" afterPath="$PROJECT_DIR$/web/app/themes/Theme2016/build/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/themes/Theme2016/assets/images/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/themes/Theme2016/assets/images/twitter.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/Theme2016/FAQ.php" afterPath="$PROJECT_DIR$/web/app/themes/Theme2016/FAQ.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/Theme2016/build/navstyle.css" afterPath="$PROJECT_DIR$/web/app/themes/Theme2016/build/navstyle.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/Theme2016/footer.php" afterPath="$PROJECT_DIR$/web/app/themes/Theme2016/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/Theme2016/front-page.php" afterPath="$PROJECT_DIR$/web/app/themes/Theme2016/front-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/Theme2016/news.php" afterPath="$PROJECT_DIR$/web/app/themes/Theme2016/news.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/Theme2016/style.css" afterPath="$PROJECT_DIR$/web/app/themes/Theme2016/style.css" />
     </list>
     <ignored path="site.iws" />
@@ -31,11 +32,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="744" column="9" selection-start-line="744" selection-start-column="9" selection-end-line="744" selection-end-column="9" />
+            <state relative-caret-position="600">
+              <caret line="801" column="0" selection-start-line="801" selection-start-column="0" selection-end-line="801" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="205" selection-start-line="18" selection-start-column="205" selection-end-line="18" selection-end-column="205" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#1;n#div#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="participants.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/participants.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-302">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="111" />
               <folding />
             </state>
           </provider>
@@ -44,8 +67,8 @@
       <file leaf-file-name="news.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/news.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="688">
-              <caret line="87" column="54" selection-start-line="87" selection-start-column="54" selection-end-line="87" selection-end-column="54" />
+            <state relative-caret-position="726">
+              <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -54,28 +77,20 @@
       <file leaf-file-name="front-page.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/front-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="80" column="254" selection-start-line="80" selection-start-column="249" selection-end-line="80" selection-end-column="254" />
-              <folding />
+            <state relative-caret-position="388">
+              <caret line="21" column="153" selection-start-line="21" selection-start-column="104" selection-end-line="21" selection-end-column="153" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navstyle.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/build/navstyle.css">
+      <file leaf-file-name="FAQ.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/FAQ.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="308">
+              <caret line="131" column="229" selection-start-line="131" selection-start-column="215" selection-end-line="131" selection-end-column="230" />
               <folding />
             </state>
           </provider>
@@ -97,8 +112,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -147,11 +162,14 @@
         <option value="$PROJECT_DIR$/web/app/themes/Theme2016/assets/js/navbar.js" />
         <option value="$PROJECT_DIR$/web/app/themes/Theme2016/assets/css/navstyle.css" />
         <option value="$PROJECT_DIR$/web/app/themes/Theme2016/front-page.php" />
-        <option value="$PROJECT_DIR$/web/app/themes/Theme2016/FAQ.php" />
+        <option value="$PROJECT_DIR$/web/app/themes/Theme2016/participants.php" />
+        <option value="$PROJECT_DIR$/web/app/themes/Theme2016/partners.php" />
         <option value="$PROJECT_DIR$/web/app/themes/Theme2016/news.php" />
+        <option value="$PROJECT_DIR$/web/app/themes/Theme2016/FAQ.php" />
         <option value="$PROJECT_DIR$/web/app/themes/Theme2016/build/navstyle.css" />
-        <option value="$PROJECT_DIR$/web/app/themes/Theme2016/footer.php" />
+        <option value="$PROJECT_DIR$/web/app/themes/Theme2016/build/button.css" />
         <option value="$PROJECT_DIR$/web/app/themes/Theme2016/style.css" />
+        <option value="$PROJECT_DIR$/web/app/themes/Theme2016/footer.php" />
       </list>
     </option>
   </component>
@@ -166,8 +184,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="206" />
-    <option name="width" value="1481" />
+    <option name="x" value="264" />
+    <option name="width" value="1423" />
     <option name="height" value="1017" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -195,6 +213,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -390,7 +409,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -404,15 +422,15 @@
     <property name="SearchEverywhereHistoryKey" value="faqtext&#9;null&#9;null&#10;h1&#9;null&#9;null&#10;postitle&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Monkey\Documents\test.div\site\web\app\themes\Theme2016\build" />
-      <recent name="C:\Users\Monkey\Documents\test.div\site\web\app\themes\Theme2016\assets\images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Monkey\Documents\test.div\site\web\app\themes\Theme2016\assets\images" />
       <recent name="C:\Users\Monkey\Documents\test.div\site\web\app\themes\Theme2016" />
       <recent name="C:\Users\Monkey\Documents\test.div\site\web\app\themes\optimizer\assets\images" />
       <recent name="C:\Users\Monkey\Documents\test.div\site\web\app\themes\IntegrifyTheme\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Monkey\Documents\test.div\site\web\app\themes\Theme2016\assets\images" />
+      <recent name="C:\Users\Monkey\Documents\test.div\site\web\app\themes\Theme2016\build" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.functions.php">
@@ -486,17 +504,18 @@
       <workItem from="1464157500978" duration="22262000" />
       <workItem from="1464242528497" duration="25023000" />
       <workItem from="1464328844803" duration="18623000" />
+      <workItem from="1464588532300" duration="14183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168028000" />
+    <option name="totallyTimeSpent" value="182211000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="206" y="0" width="1481" height="1017" extended-state="0" />
+    <frame x="264" y="0" width="1423" height="1017" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21706484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19829424" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -552,53 +571,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/app/themes/optimizer/assets/images/layout4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/optimizer/assets/css/unminified/animate.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69476">
-          <caret line="3158" column="0" selection-start-line="3158" selection-start-column="0" selection-end-line="3158" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/optimizer/assets/css/eyasstyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/optimizer/news.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/optimizer/style_core.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12240">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/optimizer/languages/optimizer.pot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/optimizer/woocommerce.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/wp/wp-includes/js/tinymce/langs/wp-langs-en.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1483">
@@ -747,7 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3938">
           <caret line="179" column="20" selection-start-line="179" selection-start-column="20" selection-end-line="179" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,11 +734,6 @@
         <state relative-caret-position="-156">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/assets/images/main-header-bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/MyTheme/functions.php">
@@ -799,11 +765,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/assets/images/integrify-group-1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
@@ -828,7 +789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -836,7 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -853,10 +812,28 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/FAQ.php">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/assets/images/integrify-group-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/assets/images/main-header-bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/build/navstyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="153" column="10" selection-start-line="153" selection-start-column="10" selection-end-line="153" selection-end-column="10" />
+        <state relative-caret-position="468">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/partners.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="60" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
           <folding />
         </state>
       </provider>
@@ -869,43 +846,89 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zOCFE976C4/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1820">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/assets/images/facebook.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/build/button.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zOCFE4C8E4/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/participants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-302">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="111" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/assets/images/twitter.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/news.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="87" column="54" selection-start-line="87" selection-start-column="54" selection-end-line="87" selection-end-column="54" />
+        <state relative-caret-position="726">
+          <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/FAQ.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="131" column="229" selection-start-line="131" selection-start-column="215" selection-end-line="131" selection-end-column="230" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/front-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="80" column="254" selection-start-line="80" selection-start-column="249" selection-end-line="80" selection-end-column="254" />
-          <folding />
+        <state relative-caret-position="388">
+          <caret line="21" column="153" selection-start-line="21" selection-start-column="104" selection-end-line="21" selection-end-column="153" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/build/navstyle.css">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="600">
+          <caret line="801" column="0" selection-start-line="801" selection-start-column="0" selection-end-line="801" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/Theme2016/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="744" column="9" selection-start-line="744" selection-start-column="9" selection-end-line="744" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="396">
+          <caret line="18" column="205" selection-start-line="18" selection-start-column="205" selection-end-line="18" selection-end-column="205" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#1;n#div#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -203,6 +203,12 @@ body {
     left: 44%;
     text-align: start;
     margin-top: -380px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 
 
 
@@ -222,6 +228,12 @@ body {
     text-align: start;
     margin-top: -250px;
 margin-left: -170px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 
 
 }
@@ -357,6 +369,12 @@ margin-left: -170px;
     font-style: normal;
     font-weight: 100;
     text-rendering: optimizeLegibility;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 .homep {
@@ -733,17 +751,16 @@ margin-top: -10px;
 .contact{
     text-align: center;
     padding-top: 20px;
-    text-align: center;
     font-style: italic;
     font-weight: 400;
     line-height: 25.6px;
     font-size: 13px;
     color:#8B8B8B ;
     background-position: center;
+
 }
 
 .address{
-    padding-top: 20px;
     text-align: center;
     font-style: italic;
     font-weight: 400;
@@ -751,10 +768,16 @@ margin-top: -10px;
     font-size: 13px;
     color:#8B8B8B ;
     background-position: center;
+    padding: 0 12px;
 }
 .follow{
     text-align: center;
     color:#8B8B8B ;
+    border-bottom: 1px solid rgba(250,144,38,.5);
+    display: inline-block;
+    font-size: 18px;
+    font-style: italic;
+    margin-left: 540px;
 }
 
 .copyright{
@@ -762,8 +785,22 @@ margin-top: -10px;
     font-style: italic;
     font-weight: 400;
     line-height: 25.6px;
-    font-size: 13px;
+    font-size: 15px;
     color:#8B8B8B ;
     background-position: center;
     padding-top: 30px;
+    margin-top: -10px;
+}
+
+
+
+
+
+.buttons {
+    margin-left: 640px;
+margin-top: -50px;
+
+}
+.facebook {
+    padding-right: 20px;
 }

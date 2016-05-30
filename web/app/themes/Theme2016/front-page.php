@@ -35,7 +35,7 @@
             <li><a href=" http://integrify.dev/partners/">Partners</a></li>
             <li><a href=" http://integrify.dev/Participants/">Participants</a></li>
             <li><a href=" http://integrify.dev/news/">News</a></li>
-            <li><a href=" http://integrify.dev/faq/">Faq</a></li>
+            <li><a href=" http://integrify.dev/faq/">FAQ</a></li>
         </ul>
     </nav>
 
