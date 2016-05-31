@@ -11,12 +11,11 @@
 <div class="one">
 
 
-    <div class="faqtwo">
+    <div class="newstwo">
         <div class="logo2">
             <a href="https://integrify.fi/"><img class="logofaq" src="<?php echo get_template_directory_uri() ?>/assets/images/integrify-logo-neg.svg" alt="logo pic" style="width:150px;height:60.5px;">
             </a> </div>
-        <img class="dude" src="<?php echo get_template_directory_uri() ?>/assets/images/news-header.jpg" alt="faq pic" style="width:1153px;height:450px;" >
-        <h1 class="faqheading">Enabling integration through technology.</h1>
+        <h1 class="newssheading">Enabling integration through technology.</h1>
         <div class='navbar-toggle' title='Menu'>
             <div class='bar1'></div>
             <div class='bar2'></div>

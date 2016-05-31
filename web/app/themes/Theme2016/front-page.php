@@ -19,8 +19,7 @@
     <div class="logo2">
         <a href="https://integrify.fi/"><img class="logo" src="<?php echo get_template_directory_uri() ?>/assets/images/integrify-logo-neg.svg" alt="logo pic" style="width:150px;height:60.5px;">
         </a> </div>
-    <img class="dude" src="<?php echo get_template_directory_uri() ?>/assets/images/main-header-bg.jpg" alt="dude pic" style="width:1153px;height:450px;" >
-
+    
     <h1 class="heading">Enabling integration through technology.</h1>
     <h2 class="sub-heading">Join integrify's sponsored career program to become a world-class coder now!</h2>
 

@@ -16,8 +16,8 @@
 
 
         <div class="buttons">
-            <a class="facebook" href="https://www.facebook.com/integrify.fi/" target="_blank"><img src="<?php echo get_template_directory_uri() ?>/assets/images/facebook.png" alt="facebook" style="width:15px;height:30px;"></a>
-            <a class="twitter" href="https://www.twitter.com/integrify_fi" target="_blank"><img src="<?php echo get_template_directory_uri() ?>/assets/images/twitter.png"  alt="twitter" style="width:15px;height:30px;"></a>
+            <a class="facebook" href="https://www.facebook.com/integrify.fi/" target="_blank"><img src="<?php echo get_template_directory_uri() ?>/assets/images/facebook-24.png" alt="facebook" style="width:20px;height:20px;"></a>
+            <a class="twitter" href="https://www.twitter.com/integrify_fi" target="_blank"><img class="twitterimg" src="<?php echo get_template_directory_uri() ?>/assets/images/twitter-24.png"  alt="twitter" style="width:23px;height:23px;"></a>
 
 
 

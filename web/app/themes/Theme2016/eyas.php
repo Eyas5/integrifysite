@@ -1,4 +1,4 @@
-<?php /* Template Name: Participants */ ?>
+<?php /* Template Name: Eyas */ ?>
 
 <?php get_header(); ?>
 <html>
@@ -11,11 +11,11 @@
 <div class="one">
 
 
-    <div class="participantstwo">
+    <div class="eyastwo">
         <div class="logo2">
             <a href="https://integrify.fi/"><img class="logofaq" src="<?php echo get_template_directory_uri() ?>/assets/images/integrify-logo-neg.svg" alt="logo pic" style="width:150px;height:60.5px;">
             </a> </div>
-       <h1 class="faqheading">Enabling integration through technology.</h1>
+         <h1 class="eyasheading">Enabling integration through technology.</h1>
         <div class='navbar-toggle' title='Menu'>
             <div class='bar1'></div>
             <div class='bar2'></div>
@@ -35,7 +35,7 @@
 
     <div class="newsintro">
 
-        <h1 class="faqheading2">Participants</h1> <hr class="line3"> </hr>
+        <h1 class="faqheading2">Eyas</h1> <hr class="line3"> </hr>
 
 
 
@@ -45,7 +45,7 @@
 
 
 
-
+    </div>
         <div class="applynews">
             <h2 class="headingapply">Apply to the program</h2>
         </div>
