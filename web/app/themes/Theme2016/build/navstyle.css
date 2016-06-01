@@ -18,7 +18,6 @@ nav {
 }
 
 .nav-hide { display: none; }
-
 nav ul {
     display: block;
     list-style-type: disc;
@@ -62,7 +61,7 @@ nav ul li :hover{
     position: fixed;
     top: 30px;
     right: 280px;
-    width: 45px;
+    width: 40px;
     height: 45px;
     z-index: 20;
     cursor: pointer;
@@ -77,6 +76,7 @@ nav ul li :hover{
     margin-bottom: 5px;
     background-color: #FFFFFF ;
     transition: all 0.2s ease-in-out;
+    border: 1px solid rgba(61,61,61,.65);
 }
 
 .navbar-on .bar1,
@@ -86,14 +86,16 @@ nav ul li :hover{
 .navbar-on .bar1 {
     transform-origin: 10% 40%;
     transform: rotate(35deg);
+    border: none;
 }
 
 .navbar-on .bar3 {
     transform-origin: 10% 40%;
     transform: rotate(-35deg);
+    border: none;
 }
 
-.navbar-on .bar2 { background-color: transparent; }
+.navbar-on .bar2 { background-color: transparent; border: none; }
 
 .menu-overlay.open .menu-container .logo {
     -webkit-transition: opacity 350ms ease-in-out;
@@ -107,3 +109,13 @@ nav ul li :hover{
     position: fixed;
     top: 20px;
     width: 150px; }
+
+.menulogo {
+    position: absolute;
+    left: 280px;
+    top: 22px;
+    width: 150px;
+    margin-left: -1343px;
+    margin-top: -30px;
+
+}
