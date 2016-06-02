@@ -20,6 +20,8 @@
             <div class='bar1'></div>
             <div class='bar2'></div>
             <div class='bar3'></div>
+            <div class="menuhide"><img class="menulogo" src="<?php echo get_template_directory_uri() ?>/assets/images/integrify-logo-neg.svg" alt="Integrify logo"></div>
+
         </div>
         <nav class="nav-hide">
             <ul>

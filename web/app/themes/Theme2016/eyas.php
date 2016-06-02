@@ -37,6 +37,10 @@
 
     <div class="eyasintro">
 
+        <div class="back-button">
+            <a ui-sref="participants" href="/participants"><i class="btb bt-arrow-left"></i> ⇦ Back</a>
+        </div>
+
         <div class="about">
 
         <h1 class="aboutheading">Eyas</h1>

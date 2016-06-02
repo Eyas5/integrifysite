@@ -20,6 +20,8 @@
             <div class='bar1'></div>
             <div class='bar2'></div>
             <div class='bar3'></div>
+            <div class="menuhide"><img class="menulogo" src="<?php echo get_template_directory_uri() ?>/assets/images/integrify-logo-neg.svg" alt="Integrify logo"></div>
+
         </div>
         <nav class="nav-hide">
             <ul>
@@ -33,25 +35,76 @@
     </div>
 
 
-    <div class="newsintro">
+    <div class="partintro">
 
-        <h1 class="faqheading2">Participants</h1> <hr class="line3"> </hr>
+        <h1 class="participantsheading2">Meet the participants</h1> <hr class="linep"> </hr>
+
+        <div class="pnizarimage">
+            <div class="image-containernizar">
+                <img src="http://s19.postimg.org/xoi5n8lzn/nizar555555.jpg" alt="nizar">
+            </div>
+        </div>
+        <div class="nizarbref">
+            <h2 class="nizarhead">Nizar</h2>
+            <h3 class="participantsh">Combining architecture with coding</h3>
+            <p class="participantsshort">Originally from Damascus, Syria, Nizar is exactly the type of multitalented professional that many companies are looking to hire: an architect with coding skills. In the future, he wishes to be able to combine his know-how of the two fields, and perhaps start his own business with his wife, who is also a trained architect.</p>
+            <a ui-sref="nizar" class="linkread" href="/participants/nezar">Read more</a>
+        </div>
+
+        <div class="pnizarimage">
+            <div class="image-containernizar">
+                <img src="http://s19.postimg.org/xoi5n8lzn/nizar555555.jpg" alt="nizar">
+            </div>
+        </div>
+        <div class="nizarbref">
+            <h2 class="nizarhead">Nizar</h2>
+            <h3 class="participantsh">Combining architecture with coding</h3>
+            <p class="participantsshort">Originally from Damascus, Syria, Nizar is exactly the type of multitalented professional that many companies are looking to hire: an architect with coding skills. In the future, he wishes to be able to combine his know-how of the two fields, and perhaps start his own business with his wife, who is also a trained architect.</p>
+            <a ui-sref="nizar" class="linkread" href="/participants/nezar">Read more</a>
+        </div>
+
+        <div class="pnizarimage">
+            <div class="image-containernizar">
+                <img src="http://s19.postimg.org/xoi5n8lzn/nizar555555.jpg" alt="nizar">
+            </div>
+        </div>
+        <div class="nizarbref">
+            <h2 class="nizarhead">Nizar</h2>
+            <h3 class="participantsh">Combining architecture with coding</h3>
+            <p class="participantsshort">Originally from Damascus, Syria, Nizar is exactly the type of multitalented professional that many companies are looking to hire: an architect with coding skills. In the future, he wishes to be able to combine his know-how of the two fields, and perhaps start his own business with his wife, who is also a trained architect.</p>
+            <a ui-sref="nizar" class="linkread" href="/participants/nezar">Read more</a>
+        </div>
+
+        <div class="pnizarimage">
+            <div class="image-containernizar">
+                <img src="http://s19.postimg.org/xoi5n8lzn/nizar555555.jpg" alt="nizar">
+            </div>
+        </div>
+        <div class="nizarbref">
+            <h2 class="nizarhead">Nizar</h2>
+            <h3 class="participantsh">Combining architecture with coding</h3>
+            <p class="participantsshort">Originally from Damascus, Syria, Nizar is exactly the type of multitalented professional that many companies are looking to hire: an architect with coding skills. In the future, he wishes to be able to combine his know-how of the two fields, and perhaps start his own business with his wife, who is also a trained architect.</p>
+            <a ui-sref="nizar" class="linkread" href="/participants/nezar">Read more</a>
+        </div>
+
+        <div class="pnizarimage">
+            <div class="image-containernizar">
+                <img src="http://s19.postimg.org/xoi5n8lzn/nizar555555.jpg" alt="nizar">
+            </div>
+        </div>
+        <div class="nizarbref">
+            <h2 class="nizarhead">Nizar</h2>
+            <h3 class="participantsh">Combining architecture with coding</h3>
+            <p class="participantsshort">Originally from Damascus, Syria, Nizar is exactly the type of multitalented professional that many companies are looking to hire: an architect with coding skills. In the future, he wishes to be able to combine his know-how of the two fields, and perhaps start his own business with his wife, who is also a trained architect.</p>
+            <a ui-sref="nizar" class="linkread" href="/participants/nezar">Read more</a>
+        </div>
 
 
 
 
-        <p><a href="http://integrify.dev/participants/nezar/">nizar</a></p>
-        <p><a href=" http://integrify.dev/participants/eyas/‎">eyas</a></p>
-        <p><a href=" http://integrify.dev/participants/nabrd/">nabard</a></p>
-        <p><a href="  http://integrify.dev/participants/reza/">reza</a></p>
-        <p><a href="  http://integrify.dev/participants/sharmaki/">sharmake</a></p>
 
 
-
-
-
-
-        <div class="applynews">
+        <div class="applypart">
             <h2 class="headingapply">Apply to the program</h2>
         </div>
 

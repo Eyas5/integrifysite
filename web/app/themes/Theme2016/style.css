@@ -105,6 +105,18 @@ body {
     display: block;
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.19);
 }
+
+.applypart {
+    background-color: #FA9026;
+    height: 390px;
+    width: 1084px;
+    margin-left: -36px;
+    margin-right: auto;
+    margin-top: 73px;
+    padding: 25px 35px;
+    display: block;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.19);
+}
 .footer {
     background-color: #383838;
     height: 390px;
@@ -178,6 +190,17 @@ body {
 
 }
 
+.partintro {
+    background-color: #FFFFFF;
+    height: 1590px;
+    width: 1083px;
+    margin-left: 0px;
+    margin-right: auto;
+    padding: 25px 35px;
+    display: block;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.19);
+
+}
 
 
 .faqfooter {
@@ -285,6 +308,8 @@ body {
     margin-bottom: .5rem;
     margin-left: 510px;
 }
+
+
 .about {
     flex: 70%;
     padding-right: 60px;
@@ -1079,7 +1104,7 @@ margin-top: -41px;
 
 .eyasintro {
     background: #FAFAFA;
-    height: 1630px;
+    height: 1720px;
     width: 1083px;
     margin-left: 0px;
     margin-right: auto;
@@ -1107,3 +1132,218 @@ margin-top: -41px;
 
 }
 
+.sharmaketwo {
+    display: block;
+    box-sizing: border-box;
+    margin-top: 250px;
+    background: url(http://s33.postimg.org/t2r1v7oof/sharmake.jpg) 50% no-repeat;
+    background-size: 100% auto!important;
+    width:1153px;
+    height:450px;
+
+}
+
+.sharmakeimage {
+    flex: 30%;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+.nizartwo {
+    display: block;
+    box-sizing: border-box;
+    margin-top: 250px;
+    background: url(http://s19.postimg.org/xoi5n8lzn/nizar555555.jpg) 50% no-repeat;
+    background-size: 100% auto!important;
+    width:1153px;
+    height:450px;
+
+}
+
+.nizarimage {
+    flex: 30%;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+.nizarimage img {
+    margin-left: 0px;
+    height: 150px;
+    max-width: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.nabardtwo {
+    display: block;
+    box-sizing: border-box;
+    margin-top: 250px;
+    background: url(http://s19.postimg.org/ti1wlnbrn/nabard.jpg) 50% no-repeat;
+    background-size: 100% auto!important;
+    width:1153px;
+    height:450px;
+
+}
+
+.nabardimage {
+    flex: 30%;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+.rezatwo {
+    display: block;
+    box-sizing: border-box;
+    margin-top: 250px;
+    background: url(http://s33.postimg.org/5otqjzvgf/main_header_bg.jpg) 50% no-repeat;
+    background-size: 100% auto!important;
+    width:1153px;
+    height:450px;
+
+}
+
+.rezaimage img {
+    margin-left: -7px;
+    height: 160px;
+    max-width: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.back-button {
+    flex: 100%;
+    border: 2px solid #FA9026;
+    display: inline-block;
+    font-size: 22px;
+    font-weight: 400;
+    padding: 6px 15px;
+    color: #FA9026;
+    line-height: inherit;
+    text-decoration: none;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+
+}
+
+.participantsheading2 {
+    margin-top: 25px;
+    text-align: center;
+    display: inline-block;
+    font-size: 32px;
+    left: 50%;
+    padding-bottom: 18px;
+    color: #3d3d3d;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    line-height: 1.4;
+    margin-bottom: .5rem;
+    margin-left: 400px;
+}
+
+.linep {
+    color: #FA9026;
+    background: #FA9026;
+    height: 2px;
+    margin-left: 447px;
+    content: '';
+    border: none;
+    margin-top: -10px;
+    width: 19%;
+}
+
+.pnizarimage img {
+    margin-left: 0px;
+    height: 150px;
+    max-width: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.image-containernizar {
+    border-radius: 50%;
+    box-shadow: 0 0 2px 0 rgba(0,0,0,.25);
+    height: 150px;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 150px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.nizarhead {
+    font-size: 26px;
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+    color: #3d3d3d;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1.4;
+    margin-bottom: .5rem;
+    margin-top: .2rem;
+    text-rendering: optimizeLegibility;
+}
+
+.nizarbref {
+    text-align: start;
+    display: inline-block;
+    font-size: 26px;
+    left: 50%;
+    padding-bottom: 18px;
+    color: #3d3d3d;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    line-height: 1.4;
+    margin-left: 350px;
+    margin-top: -200px;
+}
+
+
+
+.participantsshort {
+    font-size: 14px;
+    text-rendering: optimizeLegibility;
+    display: block;
+    color: #6d6d6d;
+    cursor: auto;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1.5;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    margin-bottom: 10px;
+    text-align: justify;
+    margin-left: 0px;
+padding-right: 80px;
+}
+
+.participantsh {
+    color: rgba(61,61,61,.55);
+    font-size: 20px;
+    margin: 35px 0 8px;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1.4;
+    margin-top: 10px;
+    text-rendering: optimizeLegibility;
+    margin-left: 0px;
+
+}
+
+.linkread {
+    font-size: 17px;
+    color: #FA9026;
+    line-height: inherit;
+    text-decoration: none;
+    margin-top: 10px;
+}
