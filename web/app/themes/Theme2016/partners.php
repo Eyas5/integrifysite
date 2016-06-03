@@ -37,10 +37,20 @@
 
     <div class="newsintro">
 
-        <h1 class="faqheading2">Partners</h1> <hr class="line3"> </hr>
+        <h1 class="partnersheading2">Partners</h1> <hr class="linepartner"> </hr>
 
-
-
+        <div class="imagepaerners">
+            <img src="https://d1lm1lir0am53x.cloudfront.net/assets/images/nord-logo-alt.png" alt="logo">
+        </div>
+        
+        <div class="descriptionp">
+            <!--<p class="text">{{text}}</p>-->
+            <div class="textpartners" ><p>Nord Software is a software development company producing technologically superior web services. We believe in fair play and long partnerships. Our skillful team incorporates 32 software development professionals, who share professional pride and a passion for writing code.</p>
+                <p>We joined Integrify as we believe that we can make a difference in the lives of people who have entered Finland in search for a new home - and the best way to do it is by providing them with a means to better themselves. Our team is composed of seven nationalities and we simply don't give a damn on what a person has done in their life prior to Nord - not about studies, prior work experience or nationality.</p>
+                <p>What we care about is motivation, willingness to learn and the ability to produce world-class code. As that's what we do as well.</p></div>
+            <a class="partner-website" href="http://nordsoftware.com/en/" target="_blank">Visit website <i class="btb bt-external-link"></i></a>
+            <a class="partner-website" href="http://nordsoftware.com/en/" target="_blank">Visit website <i class="btb bt-external-link"></i></a>
+        </div>
 
 
 
