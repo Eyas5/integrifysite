@@ -1425,7 +1425,7 @@ padding-right: 80px;
     color: #6d6d6d;
 }
 
-.imagepaerners {
+.imagepartners {
     flex: 45%;
     height: 513px;
     width: 369px;
@@ -1434,13 +1434,14 @@ padding-right: 80px;
 
 }
 
-.imagepaerners img {
+.imagepartners img {
     max-width: 65%;
     left: 50%;
     position: absolute;
     top: 50%;
     display: inline-block;
     vertical-align: middle;
+
 
 }
 
